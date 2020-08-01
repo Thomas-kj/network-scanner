@@ -1,9 +1,11 @@
 # Network-scanner
 
-A python tool for discovering clients on the network
+A python tool for discovering clients on the network.
 
 
-GOAL --> Discover clients on the network
+GOAL --> Discover clients on the network!
+
+Pre-request: Install scapy for python.
 
 Work flow:
 
